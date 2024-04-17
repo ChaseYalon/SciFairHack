@@ -1,0 +1,19 @@
+{
+  "name": "scifairhack",
+  "version": "1.0.0",
+  "description": "A simple scrape and deobfuscate attack for Vlad B's the sci fair project",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaseYalon/SciFairHack.git"
+  },
+  "author": "Chase Yalon and Leo Gorel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChaseYalon/SciFairHack/issues"
+  },
+  "homepage": "https://github.com/ChaseYalon/SciFairHack#readme"
+}
