@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChaseYalon/SciFairHack/issues"
   },
-  "homepage": "https://github.com/ChaseYalon/SciFairHack#readme"
+  "homepage": "https://github.com/ChaseYalon/SciFairHack#readme",
+  "dependencies": {
+    "obfuscator-io-deobfuscator": "^1.0.1"
+  }
 }
